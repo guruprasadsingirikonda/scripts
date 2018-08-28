@@ -2,7 +2,7 @@
 #!/bin/bash
 
 #Version: 1.0
-#Author : gangi
+#Author : guru
 
 echo "This is my first script "
 a=10
@@ -48,7 +48,7 @@ deploy_nginx.sh
 #!/bin/bash
 
 
-git clone https://github.com/gangireddydanam/nginx.git
+git clone https://github.com/guruprasadsingirikonda/nginx.git
 cd nginx
 cp -r * /usr/share/nginx/html
 
@@ -231,7 +231,7 @@ ssh -i /tmp/sshlogin.pem ec2-user@$servername
 crontab-check
 
 #!/bin/bash
-ADMIN=Gangireddy_Danamreddy@mail.com
+ADMIN=guruprasad.hd37@mail.com
 crontab -l > /tmp/_file
 currentcron=/tmp/_file1
 diff /tmp/_file /tmp/_file1 |grep -v "You have mail in" >/tmp/lists
