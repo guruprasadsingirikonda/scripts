@@ -294,7 +294,7 @@
   293  yum install git -y
   294  pwd
   295  cd
-  296  git clone https://github.com/gangireddydanam/automation1.git
+  296  git clone https://github.com/guruprasadsingirikonda/automation1.git
   297  ls -ltr
   298  cd automation1/
   299  ls -ltr
@@ -928,7 +928,7 @@
   293  yum install git -y
   294  pwd
   295  cd
-  296  git clone https://github.com/gangireddydanam/automation1.git
+  296  git clone https://github.com/guruprasadsingirikonda/automation1.git
   297  ls -ltr
   298  cd automation1/
   299  ls -ltr
@@ -1228,7 +1228,7 @@
   293  yum install git -y
   294  pwd
   295  cd
-  296  git clone https://github.com/gangireddydanam/automation1.git
+  296  git clone https://github.com/guruprasadsingirikonda/automation1.git
   297  ls -ltr
   298  cd automation1/
   299  ls -ltr
@@ -1483,10 +1483,10 @@
   548  git add index.html 
   549  git status
   550  git commit -m " added index.html"
-  551    git config --global user.email gangireddydanam@gmail.com
-  552  git config --global user.name gangireddydanam
+  551    git config --global user.email guruprasad.hd37@gmail.com
+  552  git config --global user.name guruprasadsingirikonda
   553  git commit -m " added index.html"
-  554  git remote add origin https://github.com/gangireddydanam/nginx.git
+  554  git remote add origin https://github.com/guruprasadsingirikonda/nginx.git
   555  git push -u origin master
   556  ls -ltr
   557  wc -l index.html 
@@ -1510,7 +1510,7 @@
   575  cd websites/
   576  ls -ltr
   577  pwd
-  578  git clone https://github.com/gangireddydanam/nginx.git
+  578  git clone https://github.com/guruprasadsingirikonda/nginx.git
   579  ls -ltr
   580  pwd
   581  cd nginx/
