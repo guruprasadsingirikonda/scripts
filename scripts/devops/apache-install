@@ -1,5 +1,5 @@
 #!/bin/sh
-#author:gangi
+#author:guru
 #version:1.0
 #team:devops
 #purpose: apache installation
@@ -19,7 +19,7 @@ echo "this is test page" >index.html
 
 ==============================
 #!/bin/sh
-#author:gangi
+#author:guru
 #version:1.0
 #team:devops
 #purpose: apache installation
