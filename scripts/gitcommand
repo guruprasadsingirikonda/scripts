@@ -9,8 +9,8 @@
   252  touch devfile
   253  git add devfile 
   254  git commit -m "dev"
-  255  git config --global user.email gangireddydanam@gmail.com
-  256  git config --global user.name gangireddydanam
+  255  git config --global user.email guruprasad.hd37@gmail.com
+  256  git config --global user.name guruprasadsingirikonda
   257  git commit -m "dev"
   258  git checkout master
   259  git merge 
